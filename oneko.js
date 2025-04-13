@@ -6,6 +6,8 @@
 // @version     1.0
 // @author      adryd325, kyrie25, Joshua66252
 // @description cat follow mouse real.
+// @updateURL   https://raw.githubusercontent.com/Joshua66252/Violentmonkey-oneko/refs/heads/main/oneko.js
+// @downloadURL https://raw.githubusercontent.com/Joshua66252/Violentmonkey-oneko/refs/heads/main/oneko.js
 // @resource    classic    https://raw.githubusercontent.com/Joshua66252/Violentmonkey-oneko/refs/heads/main/assets/oneko/oneko-classic.gif
 // @resource    dog        https://raw.githubusercontent.com/Joshua66252/Violentmonkey-oneko/refs/heads/main/assets/oneko/oneko-dog.gif
 // @resource    tora       https://raw.githubusercontent.com/Joshua66252/Violentmonkey-oneko/refs/heads/main/assets/oneko/oneko-maia.gif
@@ -16,7 +18,7 @@
 // @grant       GM_setValue
 // ==/UserScript==
 
-/* 
+/*
 oneko.js: https://github.com/adryd325/oneko.js
 oneko spicetify: https://github.com/kyrie25/spicetify-oneko
 
